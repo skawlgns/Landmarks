@@ -29,8 +29,8 @@ struct HexagonParameters{
         ),
         Segment(
             line: CGPoint(x: 0.00, y: 0.70 - adjustment),
-            curve: CGPoint(x: 0.05, y: 0.30 - adjustment),
-            control: CGPoint(x: 0.00, y: 0.25 - adjustment)
+            curve: CGPoint(x: 0.05, y: 0.80 - adjustment),
+            control: CGPoint(x: 0.00, y: 0.75 - adjustment)
         ),
         Segment(
             line: CGPoint(x: 0.40, y: 0.95),
